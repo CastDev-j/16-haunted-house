@@ -6,7 +6,7 @@ import { Timer } from "three/examples/jsm/Addons.js";
 
 // set up texture loader
 
-const textureLoader = new THREE.TextureLoader();
+// const textureLoader = new THREE.TextureLoader();
 
 // setup gui
 
