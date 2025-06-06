@@ -133,6 +133,7 @@ graveColorTexture.colorSpace = THREE.SRGBColorSpace;
 
 const gui = new GUI();
 gui.close();
+gui.hide();
 
 // set up canvas
 
